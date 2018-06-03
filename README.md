@@ -31,7 +31,7 @@
 
 ### Blogs
 #### data selfie https://medium.com/@j.fielding/term-3-ux-week-1-data-selfie-f53fd17eb61a
-
+#### Survey https://medium.com/@j.fielding/term-3-ux-week-2-survey-96d92b6a04a5
 
 ### Summative Presentation including the following bellow.
 [summative presentation](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Jacobs%20Full%20Summative.pdf)
