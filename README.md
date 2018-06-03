@@ -32,6 +32,7 @@
 ### Blogs
 
 ### Summative Presentation including the following bellow.
+[summative presentation](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Jacobs%20Full%20Summative.pdf)
 
 ### Map of Personal Filter Bubbles
 
