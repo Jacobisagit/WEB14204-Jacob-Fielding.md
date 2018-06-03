@@ -31,7 +31,7 @@
 
 ### Blogs
 
-### Summative Presintation including the following bellow.
+### Summative Presentation including the following bellow.
 
 ### Map of Personal Filter Bubbles
 
