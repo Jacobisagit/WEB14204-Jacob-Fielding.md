@@ -33,10 +33,10 @@
 #### data selfie https://medium.com/@j.fielding/term-3-ux-week-1-data-selfie-f53fd17eb61a
 #### Filter Bubbles https://medium.com/@j.fielding/term-3-week-2-filter-bubbles-vs-individual-choices-9ea2b9a11a
 #### Surveys https://medium.com/@j.fielding/term-3-ux-week-2-survey-96d92b6a04a5
-#### Inspiring Project
+#### Inspiring Project https://medium.com/@j.fielding/term-3-ux-week-4-inspiring-project-68ca374062a9
 #### Formative Feedback https://medium.com/@j.fielding/term-3-week-5-formative-feedback-674236e81303
-#### Landing Page
-#### What Did I learn
+#### Landing Page https://medium.com/@j.fielding/term-3-ux-week-6-landing-page-773c402fa59c
+#### What Did I learn https://medium.com/@j.fielding/term-3-week-7-what-did-i-learn-13c77f3a797e
 
 
 ### Summative Presentation including the following bellow.
