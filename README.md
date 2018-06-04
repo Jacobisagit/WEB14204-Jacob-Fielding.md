@@ -23,7 +23,7 @@
 ### User Personas
 [user personas](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/User%20Persona%20(1).pdf)
 ### Experience Map
-[experience map](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Experience%20Map.pdf)
+[experience map](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/experience%20map.png)
 ### Summative
 [summative](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Rags%20to%20Riches%20-%20Formative%20v2.pdf)
 
