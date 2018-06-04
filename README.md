@@ -17,7 +17,7 @@
 ### Concept Video
 [concept video](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/the%20final%20ching%20shih%20video.mp4)
 ### Elevator Pitch
-[elvator Pitch](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Elevator%20Pitch.pdf)
+[elvator Pitch](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Elevlator%20Pitch%20(1).pdf)
 ### Concept one pager
 [Concept onepager](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/One%20Pager.pdf)
 ### User Personas
