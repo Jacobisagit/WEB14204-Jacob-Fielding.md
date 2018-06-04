@@ -27,11 +27,17 @@
 ### Summative
 [summative](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Rags%20to%20Riches%20-%20Formative%20v2.pdf)
 
-## Term 3
+# Term 3
 
-### Blogs
+## Blogs
 #### data selfie https://medium.com/@j.fielding/term-3-ux-week-1-data-selfie-f53fd17eb61a
-#### Survey https://medium.com/@j.fielding/term-3-ux-week-2-survey-96d92b6a04a5
+#### Filter Bubbles https://medium.com/@j.fielding/term-3-week-2-filter-bubbles-vs-individual-choices-9ea2b9a11a
+#### Surveys https://medium.com/@j.fielding/term-3-ux-week-2-survey-96d92b6a04a5
+#### Inspiring Project
+#### Formative Feedback https://medium.com/@j.fielding/term-3-week-5-formative-feedback-674236e81303
+#### Landing Page
+#### What Did I learn
+
 
 ### Summative Presentation including the following bellow.
 [summative presentation](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Jacobs%20Full%20Summative.pdf)
