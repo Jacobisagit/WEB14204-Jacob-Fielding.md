@@ -14,6 +14,8 @@
 
 ### WireFrames
 [Wireframes](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/wireframes.pdf)
+[Wireframes2](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/20180305_120600.jpg)
+[wireframes3](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/20180305_120616.jpg)
 ### Prototype
 [prototype](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/gameplay.pdf)
 ### Prototype Invision
