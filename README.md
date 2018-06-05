@@ -32,6 +32,7 @@
 [user testing report](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/User-testing%20Report%20(1).pdf)
 ### Experience Map
 [experience map](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/experience%20map.png)
+[experience map2](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Rags%20to%20Riches%20-%20Experience%20Map%20(1).png)
 ### Summative
 [summative](https://github.com/Jacobisagit/WEB14204-Jacob-Fielding.md/blob/master/Rags%20to%20Riches%20-%20Formative%20v2.pdf)
 
